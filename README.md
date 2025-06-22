@@ -2,7 +2,7 @@
 
 ![](book/images/Bioinfo_Logo.jpeg)
 
-This repo contains course materials for the "Analysis Using R" workshop offered as part of 2024 [Canadian Bioinformatics Workshop](https://bioinformatics.ca/), offered on 12-13 June 2024. 
+This repo contains course materials for the "Analysis Using R" workshop offered as part of 2024 [Canadian Bioinformatics Workshop](https://bioinformatics.ca/), offered on 25-26 June 2025.
 
 ## Compile the book
 
